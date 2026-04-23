@@ -31,7 +31,7 @@ Ensured data consistency and backend integrity.
 
 ### 4. Automation Testing
 Developed a robust automation framework to handle regression testing and repetitive UI tasks.
-* **Framework:** [e.g., Selenium WebDriver with Java or Python]
+* **Framework:** [Selenium WebDriver with Java or Python]
 * **Design Pattern:** Page Object Model (POM) for enhanced maintainability and reduced code duplication.
 * **Features:**
     - Cross-browser testing (Chrome, Firefox, Edge).
@@ -42,11 +42,21 @@ Developed a robust automation framework to handle regression testing and repetit
 
 ## 🚀 Technical Stack
 * **Project Management:** Jira
-* **Automation:** Selenium WebDriver, [Language: Java/Python/C#], TestNG/Pytest
+* **Automation:** Selenium WebDriver, Language: Java/Python
 * **API Testing:** Postman
-* **Database:** [e.g., MySQL / PostgreSQL]
+* **Database:** MySQL 
 * **Version Control:** Git & GitHub
 
 ---
 
 ## 📂 Project Structure
+├── Manual_Testing
+│   ├── Test_Plan.pdf
+│   └── Test_Cases.xlsx
+├── API_Testing
+│   └── Postman_Collections/
+├── Automation_Framework
+│   ├── src/
+│   ├── tests/
+│   └── reports/
+└── README.md
